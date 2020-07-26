@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a46e53fcdc77942b65e619676ae84c, type: 3}
+  m_Name: AndronicHarvester
+  m_EditorClassIdentifier: 
+  displayName: AndronicHarvester
+  sceneName: TestScene0
+  logo: {fileID: 21300000, guid: 31d5e838eea15314c8c936761554229b, type: 3}
+  description: "\"You control Spark, part of a rare race named the Virtus, Human's
+    with Cyborg AlterEgos., that give them the ability to harvest energy and elements
+    from the world around them. \"\r\nIn the game you go explore deep temples and
+    caverns in search of rare energy and elements.\r\nIf you don't have any elements
+    absorbed your primary fire button  shoots a gust of wind, which stuns enemies."
+  channelMusic: {fileID: 0}

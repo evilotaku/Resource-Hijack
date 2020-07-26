@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a46e53fcdc77942b65e619676ae84c, type: 3}
+  m_Name: New Channel
+  m_EditorClassIdentifier: 
+  displayName: Anime Sim
+  sceneName: ctest
+  logo: {fileID: 21300000, guid: 3554c215d8348d3418458eab473642a7, type: 3}
+  description: BE THE ONE WHO HAS EVER GONE AS FAR AS TO ACCIDNETALLY THE WHOLE THING
+  channelMusic: {fileID: 0}
